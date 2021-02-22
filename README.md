@@ -37,6 +37,7 @@ A HOF takes in a callback as an argument and a callback is passed into a HOF
 Closures are created every time a function is made. It is the environment in which everything inside of the function exists.
 
 4. Describe the four rules of the 'this' keyword.
+Global, new, implicit and explicit
 
 5. Why do we need super() in an extended class?
 super allows you to move the parents arguments and methods to the child
