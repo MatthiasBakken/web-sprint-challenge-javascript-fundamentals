@@ -28,14 +28,18 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
+forEach executes a function for each element once and map creates a new array with the values after executing a function on each element
 
 2. Explain the difference between a callback and a higher order function.
+A HOF takes in a callback as an argument and a callback is passed into a HOF
 
 3. What is closure?
+Closures are created every time a function is made. It is the environment in which everything inside of the function exists.
 
 4. Describe the four rules of the 'this' keyword.
 
 5. Why do we need super() in an extended class?
+super allows you to move the parents arguments and methods to the child
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
